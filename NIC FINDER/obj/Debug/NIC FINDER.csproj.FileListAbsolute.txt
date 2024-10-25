@@ -1,0 +1,18 @@
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\bin\Debug\NIC FINDER.exe.config
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\bin\Debug\NIC FINDER.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\bin\Debug\NIC FINDER.pdb
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.csprojResolveAssemblyReference.cache
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\obj\Debug\NIC_FINDER.Properties.Resources.resources
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.csproj.GenerateResource.Cache
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.exe
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.pdb
+c:\users\ajmal\documents\visual studio 2015\Projects\NIC FINDER\NIC FINDER\obj\Debug\NIC_FINDER.NIC_FINDER.resources
+E:\Project\NIC FINDER\NIC FINDER\bin\Debug\NIC FINDER.exe.config
+E:\Project\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.exe
+E:\Project\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.pdb
+E:\Project\NIC FINDER\NIC FINDER\bin\Debug\NIC FINDER.exe
+E:\Project\NIC FINDER\NIC FINDER\bin\Debug\NIC FINDER.pdb
+E:\Project\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.csprojResolveAssemblyReference.cache
+E:\Project\NIC FINDER\NIC FINDER\obj\Debug\NIC_FINDER.NIC_FINDER.resources
+E:\Project\NIC FINDER\NIC FINDER\obj\Debug\NIC_FINDER.Properties.Resources.resources
+E:\Project\NIC FINDER\NIC FINDER\obj\Debug\NIC FINDER.csproj.GenerateResource.Cache
